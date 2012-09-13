@@ -1,5 +1,5 @@
 /**
- * Site recording framework that records website actions during a browser session and then playback
+ * Site recording framework that records website actions during a browser session.
  * @return {[type]} [description]
  */
 var REC = (function(){
