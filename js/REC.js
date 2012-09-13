@@ -1,3 +1,7 @@
+/**
+ * Site recording framework that records website actions during a browser session.
+ * @return {[type]} [description]
+ */
 var REC = (function(){
 	var rec={}, // Empty object to store all public properties
 	customEvents = [] // Arrary to store all listening objects
